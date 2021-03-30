@@ -1,0 +1,12 @@
+body {
+    background-image:url("https://images.unsplash.com/photo-1611521274806-4cc163d13b59?crop=entropy&cs=srgb&fm=jpg&ixid=MXwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHw&ixlib=rb-1.2.1&q=85");
+  }
+  canvas {
+    border-width:10px;
+    border-style:ridge;
+    background-color:white;
+  }
+  button {
+    background-color:blue;
+    color:yellow;
+  }
